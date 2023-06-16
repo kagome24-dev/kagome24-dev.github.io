@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja" >
+<head>
+  <meta charset="UTF-8">
+  <title>Kagome24-home</title>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet`> <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<header>
+	<br>
+	<div><b>&emsp;&emsp;かごめ / Kagome24&emsp;&emsp;
+		</b>
+		<br>
+		<a href="https://kagome24.com/about/index.html">About</a>&emsp;|&emsp;
+		<a href="https://kagome24.com/works.index.html">Works</a>&emsp;|&emsp;
+		<a href="https://kagome24.com/policy/index.html">Policy</a>&emsp;|&emsp;
+		<a href="https://kagome24.com/contact/index.html">Contact</a>
+		<br><br>
+</header>
+<br><br><br>
+<h1 style="font-size: 4.5em"><b>わぁ</b></h1>
+<br><br><br><br>
+<p style="font-size: 2.5em;">────────── <b>works</b> ──────────</p>
+<br>
+<p>
+<div class="box" style="text-align: left;">
+	<p><a href="https://mynecraft.jp">mynecraft 公式webサイト</a></p>
+	<p><a href="https://github.com/mynecraft-dev-team/shift_speed">ver1.18 チョコうさぎサーバーデータパック</a></p>
+	<p><a href="https://github.com/mynecraft-dev-team/squid-game">mynecraft主催参加型企画-SquidGame</a></p>
+</div>
+</p>
+<br>
+<p style="font-size: 2.5em;">────────── <b>Official Twitter</b> ──────────</p>
+<br>
+<p>
+<div class="box">
+	<p><b>Now Loading</b></p>
+</div>
+</p>
+<br><br>
+<footer>
+	<p>Thi`s is Kagome24-developer-links</p><br>
+	<div style="color: white;">
+		&emsp;<i class="fa-brands fa-twitter" style="color: #3f51b5;"></i><a href="https://www.twitter.com/@_kagome24_"> twitter</a>&emsp;
+		<a href="https://www.youtube.com/@_kagome24_"><i class="fa-brands fa-youtube" style="color: #ec4079;"></i> Youtube</a>&emsp;<a href="https://github.com/kagome24-dev"><i class="fa-brands fa-github" style="color: #edeff1;"></i> Github</a>
+	</div>
+	<center>&copy;2023 kagome24</center>
+
+</footer>
+<script src="https://kit.fontawesome.com/6c05f8638a.js" crossorigin="anonymous"></script>
+<!-- partial -->
+  
+</body>
+</html>

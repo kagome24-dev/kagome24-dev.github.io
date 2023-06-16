@@ -1,0 +1,22 @@
+body {
+		background: #fffafa;
+		color: black;
+		font-family: sans-serif;
+		text-align: center;
+	}
+
+	header {
+		background: #ffffff;
+		color: black;
+		font-family: sans-serif;
+	}
+
+	footer {
+		background: #696969;
+		color: white;
+		font-family: Ubuntu;
+	}
+
+	a {
+		color: black;
+	}
