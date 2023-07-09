@@ -1,1 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | 【公式】かごめ / Kagome24</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+</head>
+<body>
+    <style>
+        body {
+        background:  #fffafa;
+        font-family: sans-serif;
+        color: black;
+        }
+        header {
+        background: #ffffff;
+        text-align: center;
+        }
+        footer {
+        background: #708090;
+        color: white;
+        text-align: center;
+        }
+        a {
+        color: black;
+        }
+    </style>
+    <header>
+        <br>
+            <h2 class="is-size-4"><a href="https://kagome24.com"><b>かごめ / Kagome24</b></a></h2>
+            <p>
+                <a href="https://kagome24.com/about">About</a>&emsp;|&emsp;
+                <a href="https://kaogme24.com/works">Works</a>&emsp;|&emsp;
+                <a href="https://kagome24.com/policy">Policy</a>&emsp;|&emsp;
+                <a href="https://kagome24.com/contact">Contact</a>
+            </p><br>
+    </header>
+    <div class="has-text-left">
+        <br>
+        <p class="is-size-3"><b>お問い合わせ</b></p>
+        <p>提供しているサービスのissueや利用規約のことについての疑問などをお寄せください。</p><br><br>
+        <form action="https://api.staticforms.xyz/submit" method="post">
+            <p><b>お名前</b></p>
+            <input class="input" type="text" name="name" placeholder="お名前または企業団体名"><br><br>
+            <p><b>メールアドレス</b></p>
+            <input class="input" type="text" name="email" placeholder="返信先メールアドレス"><br><br>
+            <p><b>内容</b></p>
+            <textarea class="textarea" name="message" type="text" placeholder="内容" rows="5"></textarea><br><br><br>
+            <button class="button is-link is-outlined" type="submit" value="submit">送信</button>
+            <input type="hidden" name="accessKey" value="1bc39850-07cd-4fa9-a756-9e86cebab7aa">
+            <input type="hidden" name="redirectTo" value="https://kagome24.com/contact/done">
+        </form>
 
+    </div>
+    <footer>
+        <p>Thi`s is Kagome24-dev Links</p><br>
+        <p>
+            <a  style="color: white;" href="https://kagome24.com"><i class="fa-solid fa-house"></i>Home</a>&emsp;
+            <a style="color: white;" href="https://github.com/kagome24-dev"><i class="fa-brands fa-github"></i>Github</a>
+        </p>
+        <p>&copy;2023 Kagome24</p>
+    </footer>
+    <script src="https://kit.fontawesome.com/6c05f8638a.js" crossorigin="anonymous"></script>
+</body>
+</html>
